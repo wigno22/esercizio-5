@@ -1,0 +1,65 @@
+body {
+    color: white;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    background-color: #111987;
+    margin: 50;
+    display: flex;
+    align-items: center;
+   justify-content: center;
+    /*background-image: url('sfondo.jpg');  Specifica il percorso dell'immagine di sfondo     background-repeat: no-repeat; 
+    background-size: cover; 
+    background-attachment: fixed;*/
+  }
+  
+/* contenitore di modulo e titolo di login*/
+.container {
+height: 60px;
+position: relative;
+display: flex;
+flex-direction: column;
+}
+
+/* Contenitore del modulo di login */
+.login-container
+    {
+    color: #004085;
+    background-color: #d6d6d6;
+    border-radius: 3px;
+    padding: 10px;
+    width: 250px;
+    text-align: center;
+    height: 260px;
+    z-index: 2;
+    } 
+
+  /* Titolo del modulo */
+  .login-title {
+    color: rgb(255, 242, 0);
+    background-color: #000000;
+    border-radius: 3px;
+    padding: 10px;
+    font-size: 24px;
+    z-index: 1;
+    text-align: center;
+    height: 30px;
+  }
+  
+  /* Campi di input del modulo */
+  .login-input {
+
+    padding: 10px;
+    margin-bottom: 5px;
+    border: 3px solid #002fff;
+    border-radius: 15px;
+  }
+  
+  /* Bottone di accesso */
+  .login-button {
+    margin: 15px;
+    color: #ff0000;
+    padding: 0px 5px;
+    cursor: pointer;
+  }
+  
+  

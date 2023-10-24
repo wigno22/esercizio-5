@@ -1,0 +1,6 @@
+{"firstname":"walter","lastname":"signo","email":"w@t","password":"a"}
+{"firstname":"a","lastname":"b","email":"c@d","password":"a"}
+{"firstname":"alberto","lastname":"olivieri","email":"alby@gmail","password":"$2y$10$WSVSy08WUTO.5dPdOUwH.u7qdPwz22Kh5JSkrpmnCukj6wF8l3TBi"}
+{"firstname":"CIAO","lastname":"signo","email":"c@d","password":"$2y$10$3YndVDWiYfOoSOqvTwDMQ.lAtAkdzV1VEsVIFX2i\/nRNflvTZYq1u"}
+{"firstname":"CIAO","lastname":"signo","email":"c@d","password":"$2y$10$wCOrMZz5\/NAO\/5OyCBpXTux.Y6rZrmowMU71q7I7JhH6SUrmKqo4W"}
+{"firstname":"CIAO","lastname":"signo","email":"c@d","password":"$2y$10$DEmFX8PkH1w4\/Ph69uoza.30qZ4Dd3WLLQG7y4k2C2bWDI1nc8AVe"}
